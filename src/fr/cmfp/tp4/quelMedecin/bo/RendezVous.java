@@ -43,10 +43,5 @@ public class RendezVous {
 
 	public void afficher() {
 		System.out.println("RendezVous [date=" + date + ", patient=" + patient + ", creneau=" + creneau + "]");
-	}
-	
-	private void syso() {
-		//commit test
-	}
-	
+	}	
 }
