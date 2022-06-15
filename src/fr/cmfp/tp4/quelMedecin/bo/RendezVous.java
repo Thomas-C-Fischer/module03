@@ -45,6 +45,9 @@ public class RendezVous {
 		System.out.println("RendezVous [date=" + date + ", patient=" + patient + ", creneau=" + creneau + "]");
 	}
 	
-	
+	private void syso() {
+		// TODO Auto-generated method stub
+
+	}
 	
 }
