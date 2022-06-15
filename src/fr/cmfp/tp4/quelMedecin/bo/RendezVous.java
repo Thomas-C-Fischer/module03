@@ -46,8 +46,7 @@ public class RendezVous {
 	}
 	
 	private void syso() {
-		// TODO Auto-generated method stub
-
+		//commit test
 	}
 	
 }
